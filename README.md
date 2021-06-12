@@ -10,12 +10,12 @@ This mod is an expansion of my earlier mod [MountaineersHutTemperatureTweaks](ht
 ## Shelters come in 2 main types:
   * Those that provide a temperature BONUS
     * This bonus is applied on top of the outdoor temperature
-        * E.g. A cave by default has a bonus of +8°C. If it is -20°C *outside*; you walk *inside* a cave and it is -12°C
-    * This mod lets you change the temperature bonus
+    * E.g. A cave by default has a bonus of +8°C. If it is -20°C *outside*; you walk *inside* a cave and it is -12°C
+    * **This mod lets you change the temperature bonus**
   * Those that have a FIXED temperature
     * These shelters are always a constant temperature, regardless of the outdoor temperature
-      * E.g. the enclosed porch on the Pleasant Valley farmhouse is by default a constant 3°C
-    * This mod lets you change the fixed temperature OR make the shelter have a bonus temperature instead
+    * E.g. the enclosed porch on the Pleasant Valley farmhouse is by default a constant 3°C
+    * **This mod lets you change the fixed temperature OR make the shelter have a bonus temperature instead**
 
 
 ## Requirements
