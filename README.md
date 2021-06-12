@@ -1,7 +1,8 @@
-# ShelterTemperatureTweaks
+# Shelter Temperature Tweaks
 A mod for The Long Dark
 
 This mod allows you to tweak the temperature of shelters with NO LOADING SCREEN, such as small OUTDOOR caves. 
+
 *It does NOT affect INDOOR locations, such as the inside of houses, mines or large caves (anywhere with a loading screen).*
 
 ## Shelters come in 2 main types:
