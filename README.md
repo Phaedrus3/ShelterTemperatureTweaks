@@ -32,11 +32,11 @@ Delete ```ShelterTemperatureTweaks.dll``` and ```ShelterTemperatureTweaks.json``
 2. Open the ```Mod Settings``` menu
 3. Scroll across to the ```Shelter Temperature Tweaks``` menu
 4. To make the menu easier to navigate, shelter locations have been separated by Region
-  * **All Regions:** These settings apply across all regions
+* **All Regions:** These settings apply across all regions
     * Caves: These are OUTDOOR caves WITHOUT a loading screen
-		* Fishing Hut: These are only Fishing Huts WITH DOORS
+    * Fishing Hut: These are only Fishing Huts WITH DOORS
     * Lookouts: Use this setting to change ALL Lookouts to have the same settings at once. Choosing NO allows separate settings for each Lookout under their Region headings
-	* **Toggle Regions:** Show temperature settings for individual shelters, sorted by Region
+* **Toggle Regions:** Show temperature settings for individual shelters, sorted by Region
     * The Region settings contain location spoilers!
     * Scroll down to see all of the shelters
     * Toggle the settings for each shelter on or off as you please
