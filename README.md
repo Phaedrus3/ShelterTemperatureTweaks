@@ -5,8 +5,6 @@ This mod allows you to tweak the temperature of shelters that have no loading sc
 
 *It does NOT affect INDOOR locations, such as the inside of houses, mines or large caves (anywhere with a loading screen).* 
 
-## This mod is back up by request but it should be considered experimental as I have not tested it on the latest version of the game!
-
 This mod is an expansion of my earlier mod [MountaineersHutTemperatureTweaks](https://github.com/GruffCassquatch/MountaineersHutTemperatureTweaks), now covering the majority of shelters. If you are using MountaineersHutTemperatureTweaks DO NOT change any settings for the Mountaineer's Hut in Shelter Temperature Tweaks. Preferably, only use one mod.
 
 ## Shelters come in 2 main types:
