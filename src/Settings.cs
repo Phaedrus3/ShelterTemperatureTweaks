@@ -1,7 +1,5 @@
 ﻿using ModSettings;
-using UnityEngine;
 using System.Reflection;
-using System.Linq;
 
 namespace ShelterTemperatureTweaks
 {
