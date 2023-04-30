@@ -11,7 +11,7 @@ using MelonLoader;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("ShelterTemperatureTweaks")]
-[assembly: AssemblyCopyright("Copyright ©  2022")]
+[assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -33,8 +33,8 @@ using MelonLoader;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.1")]
-[assembly: AssemblyFileVersion("1.1")]
-[assembly: MelonInfo(typeof(ShelterTemperatureTweaks.Implementation), "ShelterTemperatureTweaks", "1.1", "GruffCassquatch")]
+[assembly: AssemblyVersion("2.1")]
+[assembly: AssemblyFileVersion("2.1")]
+[assembly: MelonInfo(typeof(ShelterTemperatureTweaks.Implementation), "ShelterTemperatureTweaks", "2.1", "GruffCassquatch, Phaedrus")]
 [assembly: MelonGame("Hinterland", "TheLongDark")]
 
