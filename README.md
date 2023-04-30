@@ -1,10 +1,11 @@
 # Shelter Temperature Tweaks
-A mod for The Long Dark    
-FOR GAME VERSION 2.00 / 2.02 (**PRE TALES FROM THE FAR TERRITORY**)    
+A mod for The Long Dark
 
 This mod allows you to tweak the temperature of shelters that have no loading screen, such as Mountaineer's Hut and small outdoor caves. 
 
 *It does NOT affect INDOOR locations, such as the inside of houses, mines or large caves (anywhere with a loading screen).* 
+
+## This mod is back up by request but it should be considered experimental as I have not tested it on the latest version of the game!
 
 This mod is an expansion of my earlier mod [MountaineersHutTemperatureTweaks](https://github.com/GruffCassquatch/MountaineersHutTemperatureTweaks), now covering the majority of shelters. If you are using MountaineersHutTemperatureTweaks DO NOT change any settings for the Mountaineer's Hut in Shelter Temperature Tweaks. Preferably, only use one mod.
 
@@ -49,8 +50,3 @@ Delete ```ShelterTemperatureTweaks.dll``` and ```ShelterTemperatureTweaks.json``
 
 ## Feedback, Questions & Troubleshooting
 * I am active on [The Long Dark Modding](https://discord.gg/QvFE7VV4WZ) Discord server
-	* **General questions and feedback:** post in my channel #cass
-	* **Troubleshooting:** 
-		* While in pre-release, post in my channel #cass 
-		* For mods not in pre-release, you can post in my channel #cass or in #troubleshooting 
-		* Or create an issue here on GitHub if you're not on Discord
